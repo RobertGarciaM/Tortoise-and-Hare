@@ -1,0 +1,16 @@
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\bin\Debug\net5.0\TurtleAndHare.exe
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\bin\Debug\net5.0\TurtleAndHare.deps.json
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\bin\Debug\net5.0\TurtleAndHare.runtimeconfig.json
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\bin\Debug\net5.0\TurtleAndHare.runtimeconfig.dev.json
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\bin\Debug\net5.0\TurtleAndHare.dll
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\bin\Debug\net5.0\ref\TurtleAndHare.dll
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\bin\Debug\net5.0\TurtleAndHare.pdb
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\obj\Debug\net5.0\TurtleAndHare.csproj.AssemblyReference.cache
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\obj\Debug\net5.0\TurtleAndHare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\obj\Debug\net5.0\TurtleAndHare.AssemblyInfoInputs.cache
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\obj\Debug\net5.0\TurtleAndHare.AssemblyInfo.cs
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\obj\Debug\net5.0\TurtleAndHare.csproj.CoreCompileInputs.cache
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\obj\Debug\net5.0\TurtleAndHare.dll
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\obj\Debug\net5.0\ref\TurtleAndHare.dll
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\obj\Debug\net5.0\TurtleAndHare.pdb
+C:\Users\siemp\source\repos\TurtleAndHare\TurtleAndHare\obj\Debug\net5.0\TurtleAndHare.genruntimeconfig.cache
